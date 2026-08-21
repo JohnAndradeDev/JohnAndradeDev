@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Johnatan Andrade 👋</h1>
 
-<h3 align="center">Estudante de Engenharia de Computação | Desenvolvedor Full Stack em formação</h3>
+<h3 align="center">Estudante de Engenharia de Computação | Desenvolvedor Back-End em formação</h3>
 
 <p align="center">
-  Apaixonado por tecnologia e em busca de uma oportunidade como <strong>Desenvolvedor</strong>, construindo projetos full stack do zero e aprendendo boas práticas de arquitetura de software no dia a dia.
+  Comprometido com o aprendizado e em busca de uma oportunidade como <strong>Desenvolvedor</strong>, construindo projetos back-end do zero e aprendendo boas práticas de arquitetura de software no dia a dia.
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando **Engenharia de Computação**
+- 🎓 Cursando **Engenharia de Computação** na Facens em Sorocaba
 - 💼 Experiência prévia como **Jovem Aprendiz** no setor de Metrologia da Nissin Foods do Brasil, com Excel, TOTVS e rotinas administrativas
-- 🛠️ Hoje foco em **desenvolvimento full stack**, construindo projetos de portfólio com autenticação, APIs REST e bancos de dados relacionais
-- 🌱 Buscando uma **vaga remota como desenvolvedor** para colocar em prática (e evoluir) tudo que venho estudando
+- 🛠️ Hoje foco em **desenvolvimento back-end**, construindo projetos de portfólio com autenticação, APIs REST e bancos de dados relacionais
+- 🌱 Buscando uma **vaga de estágio como desenvolvedor** para colocar em prática (e evoluir) tudo que venho estudando
 - 📫 Aberto a oportunidades — entre em contato!
 
 ---
@@ -52,16 +52,18 @@
 
 **Front-end**
 - React.js, TypeScript, Vite
-- Tailwind CSS, Shadcn/UI, Bootstrap
-- TanStack Query
+- Tailwind CSS, Bootstrap
+- Html, CSS, JavaScript
 
 </td>
 <td valign="top" width="50%">
 
 **Back-end**
-- Node.js, Express, Python
-- PostgreSQL, Prisma
+- Node.js, Express, Fastify, Python
+- PostgreSQL, SQL Server, Prisma
 - JWT, arquitetura em camadas (controllers/services/repositories)
+- Docker
+- Testes automatizados (Unitários, Integração e E2E)
 
 </td>
 </tr>
@@ -73,31 +75,15 @@
 
 > Projetos construídos para praticar arquitetura real de mercado — autenticação, modelagem de banco, APIs REST e deploy.
 
-**🗂️ Sistema de Controle de Estoque/Custos** *(full stack)*
-`React.js` `Node.js` `PostgreSQL` `JWT`
-Sistema completo com API REST, autenticação e telas de gestão de estoque, pensado para fechar a lacuna de projetos de portfólio no currículo.
+**🗂️ Sistema de Resenhas de Livros lidos** *(full stack)*
+`Express` `Node.js` `PostgreSQL` `JWT`
+Sistema completo com API REST, autenticação e telas para resenhas próprias dos seus livros lidos, pensado para fechar a lacuna de projetos de portfólio no currículo.
 
-**💰 Sistema de Gerenciamento Financeiro Pessoal** *(full stack)*
-`React` `TypeScript` `Vite` `Tailwind` `Node.js` `Express` `Prisma` `PostgreSQL` `Docker`
-Aplicação completa com dashboard, receitas, despesas, transferências, cartões, metas financeiras, relatórios e gráficos — construída em camadas (controllers/services/repositories) e com deploy via Docker Compose.
+**💰 API Rest de GymPass** *(back-end)*
+`Festify` `TypeScript` `Vitest` `Testes automatizados` `Node.js` `Prisma` `PostgreSQL` `Docker`
+Aplicação completa — construída em camadas (controllers/services/repositories) e com deploy via Docker Compose.
 
 🔗 Veja esses e outros projetos no [meu portfólio](https://johnatan-andrade.netlify.app/)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  💬 Vamos conversar sobre tecnologia ou oportunidades? Me chama no <a href="https://www.linkedin.com/in/johnatan-andrade-b04339268/">LinkedIn</a> ou por <a href="mailto:johnatandias3545@gmail.com">e-mail</a>!
-</p>
