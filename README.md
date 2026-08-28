@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### 💻Sobre mim 💻 
 
 - 🎓 Cursando **Engenharia de Computação** na Facens em Sorocaba
 - 💼 Experiência prévia como **Jovem Aprendiz** no setor de Metrologia da Nissin Foods do Brasil, com Excel, TOTVS e rotinas administrativas
@@ -38,10 +38,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)" height="40" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express" style="background:white;padding:4px;border-radius:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
