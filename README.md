@@ -45,7 +45,7 @@
 
 🎨 Front-end
 
-<p> <img src="https://skillicons.dev/icons?i=react,ts,bootstrap,html,css,js" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js" /> </p>
 
 🛠️ Ferramentas & Testes
 
